@@ -15,4 +15,25 @@ body {
 img {
     width: 400px;
     height: auto;
+    display: flex;
+    align-items: center;
+    position: right;
+    padding: 50px;
+    margin: 5px;
 }
+
+h2 {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    padding: 25px;
+    margin: 25px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    position: relative;
+    font-size: 3em;
+}
+
